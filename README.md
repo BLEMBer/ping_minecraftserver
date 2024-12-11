@@ -1,6 +1,6 @@
 [mcstatus ](https://pypi.org/project/mcstatus/)
 
-#📦Installation
+# 📦Installation
 1. Clone the repo:
 ```bash
 git clone https://github.com/BLEMBer/ping_pong_mc.git
