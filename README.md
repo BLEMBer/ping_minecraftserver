@@ -2,7 +2,7 @@
 
 # Installation
 ```bash
-git clone https://github.com/BLEMBer/ping_minecraftserver.git
+git clone https://github.com/BLEMBer/ping_pong_mc.git
 pip install mcstatus
 python3 main.py
 ```
