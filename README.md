@@ -1,9 +1,16 @@
 [mcstatus ](https://pypi.org/project/mcstatus/)
 
-# Installation
+#📦Installation
+1. Clone the repo:
 ```bash
 git clone https://github.com/BLEMBer/ping_pong_mc.git
+```
+2. Install Download the latest version of “mcstats”
+```bash
 pip install mcstatus
+```
+3. Start a python file
+```bash
 python3 main.py
 ```
 
